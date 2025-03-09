@@ -23,6 +23,7 @@ passport.use(
     },
     async (accessToken, refreshToken, profile, done) => {
       try {
+        // DB 저장/조회 로직 추가
         const user = {
           id: profile.id,
           email: profile.emails[0].value,

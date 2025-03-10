@@ -96,6 +96,10 @@ oauth-login-toy/
 └── package.json
 ```
 
+## 블로그
+
+[Holy-s OAuth](https://holy-s.tistory.com/entry/Nodejs%EC%97%90%EC%84%9C-OAuth-20%EC%9C%BC%EB%A1%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+
 ## 라이선스
 
 ISC
